@@ -27,7 +27,7 @@ This project aims to strengthen basic programming skills such as handling user i
 
 # Key Activities
 <br>
-User Input Handling:
+✅User Input Handling:
 <br>
 Prompt the user to enter a temperature value.
 <br>
