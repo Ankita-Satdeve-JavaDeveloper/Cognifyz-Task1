@@ -13,7 +13,9 @@ Duration: July to August 2024
 <br>
 
 # Project Overview: Temperature Converter
-The Temperature Converter project is a simple Java application that allows users to convert temperatures between Celsius and Fahrenheit. The user is prompted to enter a temperature value and specify the unit of measurement (Celsius or Fahrenheit). 
+The Temperature Converter project is a simple Java application that allows users to convert temperatures between Celsius and Fahrenheit.
+<br>
+The user is prompted to enter a temperature value and specify the unit of measurement (Celsius or Fahrenheit). 
 <br>
 Based on the input, the program performs the appropriate conversion and displays the converted temperature.
 <br>
