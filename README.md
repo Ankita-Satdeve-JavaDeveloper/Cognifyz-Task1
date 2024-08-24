@@ -34,14 +34,14 @@ Prompt the user to enter a temperature value.
 Prompt the user to specify the unit of measurement (Celsius or Fahrenheit).
 <br>
 
-# Temperature Conversion:
+✅Temperature Conversion:
 <br>
 Convert the temperature from Celsius to Fahrenheit if the user selects Celsius.
 <br>
 Convert the temperature from Fahrenheit to Celsius if the user selects Fahrenheit.
 <br>
 
-# Validation and Error Handling:
+✅Validation and Error Handling:
 <br>
 Validate the temperature value to ensure it is a numeric input.
 <br>
@@ -50,7 +50,7 @@ Validate the unit input to ensure it is either 'c' or 'f'.
 Handle invalid inputs gracefully by providing appropriate error messages.
 <br>
 
-# Display Results:
+✅Display Results:
 <br>
 Display the converted temperature to the user.
 <br>
